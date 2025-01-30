@@ -38,3 +38,5 @@ Se deseja contribuir com melhorias, sinta-se à vontade para abrir um pull reque
 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+Participantes: @rodrigololr
