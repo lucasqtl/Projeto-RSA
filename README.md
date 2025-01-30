@@ -40,3 +40,5 @@ Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Participantes: https://github.com/rodrigololr
+               https://github.com/Manu-Vii
+               https://github.com/Luiz-Bomfim
